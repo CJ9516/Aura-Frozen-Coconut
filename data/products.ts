@@ -16,7 +16,7 @@ export const products: Product[] = [
     price: 3.99,
     description: 'Freshly grated, flash frozen coconut — ready to use in curries, sweets and baking.',
     nutrition: { Calories: '120 kcal', Fat: '9g', Fiber: '3g', Protein: '2g', Potassium: '150mg', VitaminC: '2mg' },
-    image: '/images/product-400g.svg'
+    image: '/images/auro_coco_400g.png'
   },
   {
     id: 'aura-1kg',
@@ -25,6 +25,6 @@ export const products: Product[] = [
     price: 9.99,
     description: 'Larger pack for families and food service.',
     nutrition: { Calories: '120 kcal', Fat: '9g', Fiber: '3g', Protein: '2g', Potassium: '150mg', VitaminC: '2mg' },
-    image: '/images/product-1kg.svg'
+    image: '/images/auro_coco_1kg.png'
   }
 ]
