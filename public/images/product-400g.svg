@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="100%" height="100%" rx="24" fill="#fff" stroke="#E6E6E6" />
+  <rect x="60" y="80" width="480" height="560" rx="16" fill="#F9F9F9" />
+  <text x="300" y="420" font-size="64" text-anchor="middle" fill="#C62828" font-family="Poppins,Arial">Aura 400g</text>
+  <text x="300" y="480" font-size="20" text-anchor="middle" fill="#666">Keep Frozen • Freshly Grated</text>
+</svg>
