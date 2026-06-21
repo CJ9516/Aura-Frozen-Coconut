@@ -2,9 +2,9 @@ import React from 'react'
 import { motion } from 'framer-motion'
 
 const recipes = [
-  {title:'Coconut Curry', desc:'A spicy coconut curry.', img:'/images/product-400g.svg'},
-  {title:'Pol Sambol', desc:'Coconut sambol, a Sri Lankan classic.', img:'/images/product-1kg.svg'},
-  {title:'Coconut Roti', desc:'Flatbreads with coconut.', img:'/images/product-400g.svg'}
+  {title:'Coconut Curry', desc:'A spicy coconut curry.', img:'/images/auro_coco_400g.png'},
+  {title:'Pol Sambol', desc:'Coconut sambol, a Sri Lankan classic.', img:'/images/auro_coco_1kg.png'},
+  {title:'Coconut Roti', desc:'Flatbreads with coconut.', img:'/images/auro_coco_400g.png'}
 ]
 
 export default function Recipes(){

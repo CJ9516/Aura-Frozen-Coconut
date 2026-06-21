@@ -16,7 +16,7 @@ export default function Hero(){
         </div>
         <div className="md:w-6/12 flex justify-center">
           <motion.div initial={{scale:0.98}} whileInView={{scale:1}} transition={{type:'spring',stiffness:80}} className="w-72 md:w-80 lg:w-96">
-            <Image src="/images/product-400g.svg" alt="Aura 400g" width={600} height={800} priority />
+            <Image src="/images/auro_coco_400g.png" alt="Aura 400g" width={600} height={800} priority />
           </motion.div>
         </div>
       </div>
